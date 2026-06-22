@@ -26,7 +26,7 @@ Security was another important concept I learned throughout the program. Securit
 
 The artifacts included in my ePortfolio work together to demonstrate my growth as a computer science student. The software engineering enhancements show my ability to improve architecture and maintainability. The algorithms and data structure enhancements demonstrate my understanding of efficient data management and performance optimization. Combined these enhancements show my ability to design, develop, and improve software using principles learned throughout my computer science program.
 
-[Download Professional Self-Assessment](narratives/Professi onal_Self_Assessment.docx)
+[Download Professional Self-Assessment](narratives/Professional_Self_Assessment.docx)
 
 # Artifact Overview
 
